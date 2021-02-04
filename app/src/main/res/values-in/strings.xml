@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name"><xliff:g id="application_homepage">GITHUB APP</xliff:g></string>
+    <string name="username"><xliff:g id="username_page">jakewhatonloremipsum</xliff:g></string>
+    <string name="name"><xliff:g id="name_page">Jake Wharton</xliff:g></string>
+    <string name="link_github"><xliff:g id="url_page">www.github.com/users/loremipsumdolorsitamet</xliff:g></string>
+    <string name="location"><xliff:g id="location_page">Jakarta, Indonesia</xliff:g></string>
+    <string name="score"> <xliff:g id="score_page">50000</xliff:g> </string>
+
+    <string name="search_hint">Cari Pengguna</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="change_languange_settings">Ubah Pengaturan Bahasa</string>
+    <string name="repository">Gudang</string>
+    <string name="setting">Pengaturan</string>
+    <string name="favorite">Pengguna Favorit</string>
+    <string name="menu">Menu</string>
+    <string name="daily_reminder_at_9_00_pm">Pengingat Harian Jam 09:00</string>
+    <string name="message">Lets find user popular on Github App</string>
+</resources>

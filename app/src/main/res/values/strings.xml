@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name"><xliff:g id="application_homepage">GITHUB APP</xliff:g></string>
+    <string name="username"><xliff:g id="username_page">jakewhatonloremipsum</xliff:g></string>
+    <string name="name"><xliff:g id="name_page">Jake Wharton</xliff:g></string>
+    <string name="link_github"><xliff:g id="url_page">www.github.com/users/loremipsumdolorsitamet</xliff:g></string>
+    <string name="location"><xliff:g id="location_page">Jakarta, Indonesia</xliff:g></string>
+    <string name="score"> <xliff:g id="score_page">50000</xliff:g> </string>
+
+    <string name="search_hint">Search User</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="change_languange_settings">Change Language Settings</string>
+    <string name="repository">Repository</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite User</string>
+    <string name="menu">Menu</string>
+    <string name="daily_reminder_at_9_00_pm">Daily Reminder at 09:00 PM</string>
+    <string name="message">Lets find user popular on Github App</string>
+</resources>

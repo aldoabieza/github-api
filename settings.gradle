@@ -1,0 +1,3 @@
+include ':consumergithubapp'
+include ':app'
+rootProject.name = "MyLastSubmission"

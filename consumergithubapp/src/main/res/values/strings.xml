@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConsumerGithubApp</string>
+
+    <string name="username">jakewhatonloremipsum</string>
+    <string name="name">Jake Wharton</string>
+    <string name="link_github">www.github.com/users/loremipsumdolorsitamet</string>
+    <string name="location">Jakarta, Indonesia</string>
+    <string name="score">50000</string>
+
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+</resources>
